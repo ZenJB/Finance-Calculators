@@ -1,2 +1,3 @@
 # Finance Calculators
- Investment calculator and a home loan repayment calculator
+This a program allows a user to access two different financial calculators: an investment calculator and a home loan
+repayment calculator
